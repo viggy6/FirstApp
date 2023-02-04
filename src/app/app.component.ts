@@ -6,10 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-    counter=1000
+    counter=1000;
 
    print(){
-    console.log(this.counter)
+    console.log(this.counter);
    }
     
 }
